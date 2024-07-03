@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width:100%;
+    height: 100%;
+}
+#abc{
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.31);
+}
+#aa{
+    -webkit-text-stroke: 1px white;
+}
+#icon{
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.372);
+}
+#ba{
+    -webkit-text-stroke: 1px white;
+}
+#baa{
+    -webkit-text-stroke: 1px white;
+}
